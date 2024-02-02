@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+  font-family: "segoe UI";
+}
+body{
+  background-color: rgb(205, 255, 209);
+}
+span, h3 {
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+
+
